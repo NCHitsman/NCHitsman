@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on a new secret project
-- 🌱 I’m currently learning the advanced techniques of ThreeJS
+- 🌱 I’m currently learning the ins and outs of websockets
 - 👯 I’m looking to collaborate on as many open-source GitHub projects as possible
 - 🤔 I’m looking for help with better understanding anti alising in ThreeJS
 - 💬 Ask me about my portfolio website
