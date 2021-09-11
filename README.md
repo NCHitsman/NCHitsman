@@ -1,5 +1,5 @@
 - 🔭 I’m currently moving to Washington
-- 🌱 I’m currently learning the ins and outs of websockets
+- 🌱 I’m currently learning how to use Jquery
 - 👯 I’m looking to collaborate on a Github API Wrapper project
 - 🤔 I’m looking for help with better understanding anti alising in ThreeJS
 - 💬 Ask me about my portfolio website
