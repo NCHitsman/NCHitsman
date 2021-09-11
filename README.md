@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on a new secret project
+- 🔭 I’m currently moving to Washington
 - 🌱 I’m currently learning the ins and outs of websockets
 - 👯 I’m looking to collaborate on a Github API Wrapper project
 - 🤔 I’m looking for help with better understanding anti alising in ThreeJS
