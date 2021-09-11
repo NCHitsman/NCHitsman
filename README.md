@@ -5,4 +5,4 @@
 - 💬 Ask me about my portfolio website and how I made it
 - 📫 How to reach me: noah.hitsman@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to play code golf with DS&As
+- ⚡ Fun fact: I love to find ways to maximize efficiency between back-end and front-end communication
