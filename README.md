@@ -1,7 +1,7 @@
 - 🔭 I’m currently moving to Washington
 - 🌱 I’m currently learning how to use Jquery
 - 👯 I’m looking to collaborate on an open source project related to my hobbies
-- 🤔 I’m looking for help with better understanding anti alising in ThreeJS
+- 🤔 I’m looking for help with better understanding the order of operations for making a flask Python backend
 - 💬 Ask me about my portfolio website
 - 📫 How to reach me: noah.hitsman@gmail.com
 - 😄 Pronouns: He/Him
