@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on a C# opensource API project
 - 🤔 I’m looking for help with better understanding the connecting a C# backend to a React Frontend
-- 💬 Ask me about my portfolio website and how I made it
+- 💬 Ask me about my portfolio website and how I made the background animation
 - 📫 How to reach me: noah.hitsman@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to find ways to maximize efficiency between back-end and front-end communication
