@@ -1,4 +1,4 @@
-- 🔭 I’m currently moving to Washington
+- 🔭 I’m currently looking for work
 - 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on a C# opensource API project
 - 🤔 I’m looking for help with better understanding the order of operations for making a flask Python backend
