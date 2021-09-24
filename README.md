@@ -1,7 +1,7 @@
 - 🔭 I’m currently looking for work
 - 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on a C# opensource API project
-- 🤔 I’m looking for help with better understanding the order of operations for making a flask Python backend
+- 🤔 I’m looking for help with better understanding the connecting a C# backend to a React Frontend
 - 💬 Ask me about my portfolio website and how I made it
 - 📫 How to reach me: noah.hitsman@gmail.com
 - 😄 Pronouns: He/Him
