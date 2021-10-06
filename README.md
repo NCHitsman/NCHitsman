@@ -1,4 +1,4 @@
-- 🔭 I’m currently looking for work
+- 🔭 I’m currently looking working on an app that helps you chose which resturant to eat at
 - 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on a C# opensource API project
 - 🤔 I’m looking for help with better understanding the connecting a C# backend to a React Frontend
