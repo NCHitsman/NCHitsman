@@ -1,7 +1,7 @@
-- 🔭 I’m currently looking working on an app that helps you chose which resturant to eat at
-- 🌱 I’m currently learning C# and .NET
+- 🔭 I’m currently working on an app that helps users dispute errors on their Credit Report and take the best steps towards increasing their Credit Score
+- 🌱 I’m currently learning AWS and .NET
 - 👯 I’m looking to collaborate on a C# opensource API project
-- 🤔 I’m looking for help with better understanding the connecting a C# backend to a React Frontend
+- 🤔 I’m looking for help to better understand connecting a C# backend to a React Frontend
 - 💬 Ask me about my portfolio website and how I made the background animation
 - 📫 How to reach me: noah.hitsman@gmail.com
 - 😄 Pronouns: He/Him
